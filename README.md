@@ -42,15 +42,19 @@ Players are welcome to immerse themselves in their characters, settlements, prof
 
 Found a bug, crash, exploit, or unexpected behavior?
 
-Please visit the repository's **Issues** tab and follow the reporting instructions provided in:
+Please submit a report through the repository's **Issues** page and follow the reporting instructions found in the issue template.
+
+* [Issue Reporting Guide](docs/issue-report.md)
+* [Open a New Issue](../../issues/new)
+
+Providing complete reports, including logs and screenshots, helps us reproduce and resolve issues more efficiently.
+
 
 `docs/issue-report.md`
 
 Providing complete reports helps us reproduce and resolve issues more efficiently.
 
 ## Community Expectations
-
-We ask all players to:
 
 * Treat others with respect.
 * Avoid exploiting bugs or unintended mechanics.
