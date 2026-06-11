@@ -44,7 +44,7 @@ Found a bug, crash, exploit, or unexpected behavior?
 
 Please submit a report through the repository's **Issues** page and follow the reporting instructions found in the issue template.
 
-* [Issue Reporting Guide](docs/issue-report.md)
+* [Issue Reporting Guide](https://github.com/Trumiic/Azuresong-Vintage-Story-Server/wiki/Reporting-Issues)
 * [Open a New Issue](../../issues/new)
 
 Providing complete reports, including logs and screenshots, helps us reproduce and resolve issues more efficiently.
